@@ -4,4 +4,5 @@ import hardpass
 # Fungerar som den ska
 #easypass.make_easypass()
 
-hardpass.make_hardpass()
+#Fungerar som den ska
+#hardpass.make_hardpass()
